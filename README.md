@@ -43,5 +43,10 @@ sudo su root -c "printf '[options] \n; This is the password that allows database
 
 ##  تشغيل اودو
 sudo su - odoo -s /bin/bash && cd /odoo/odoo-server
-./odoo-bin -c /etc/odoo-server.conf
+./odoo-bin -c /etc/odoo-server.conf                    
+
+
+
+###  لأي مساعدة يمكنك الاتصال بي عبر بيانات الاتصال الموجودة في موقعي التالي
+https://www.elbasri.net/
                     
