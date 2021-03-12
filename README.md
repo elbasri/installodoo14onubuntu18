@@ -70,7 +70,10 @@ sudo su root -c "printf '[options] \n; This is the password that allows database
 ##  تشغيل اودو
 
 ```
-sudo su - odoo -s /bin/bash && cd /odoo/odoo-server
+sudo su - odoo -s /bin/bash && cd /odoo/odoo-server                 
+```
+    
+```
 ./odoo-bin -c /etc/odoo-server.conf                    
 ```
                     
