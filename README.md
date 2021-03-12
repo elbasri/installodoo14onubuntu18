@@ -77,6 +77,7 @@ sudo su - odoo -s /bin/bash && cd /odoo/odoo-server
 
 ##  تثبيت على الجهاز الشخصي - للتجربة فقط
 ```
+sudo apt install postgresql -y
 dpkg -i odoo_14.0.latest_all.deb
 apt-get install -f odoo_14.0.latest_all.deb
 dpkg -i odoo_14.0.latest_all.deb
