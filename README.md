@@ -77,9 +77,9 @@ sudo su - odoo -s /bin/bash && cd /odoo/odoo-server
 
 ##  تثبيت على الجهاز الشخصي - للتجربة فقط
 ```
-dpkg -i <path_to_installation_package> # this probably fails with missing dependencies
-apt-get install -f # should install the missing dependencies
-dpkg -i <path_to_installation_package>
+dpkg -i odoo_14.0.latest_all.deb
+apt-get install -f odoo_14.0.latest_all.deb
+dpkg -i odoo_14.0.latest_all.deb
 ```
 
 ###  لأي مساعدة يمكنك الاتصال بي عبر بيانات الاتصال الموجودة في موقعي التالي
