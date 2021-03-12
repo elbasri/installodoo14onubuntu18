@@ -24,7 +24,7 @@ sudo su - postgres -c "createuser -s odoo" 2> /dev/null || true
 ```
 sudo apt-get install git python3 python3-pip build-essential wget python3-dev python3-venv python3-wheel libxslt-dev libzip-dev libldap2-dev libsasl2-dev python3-setuptools node-less libjpeg-dev gdebi -y
  ```                   
-##  تثبيت ادوات البيب الخاصة بالبايثون
+##  تثبيت ادوات الادوات والمكتبات الضرورية لتشغيل اودو، عن طريق البيب
 
 ```
 sudo -H pip3 install -r https://raw.githubusercontent.com/odoo/odoo/master/requirements.txt 
