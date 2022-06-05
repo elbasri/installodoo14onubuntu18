@@ -87,5 +87,5 @@ dpkg -i odoo_14.0.latest_all.deb
 ```
 
 ###  لأي مساعدة يمكنك الاتصال بي عبر بيانات الاتصال الموجودة في موقعي التالي
-https://www.elbasri.net/
+https://www.nacer.ma
                     
