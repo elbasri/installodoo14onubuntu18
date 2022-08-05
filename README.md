@@ -42,7 +42,6 @@ sudo apt-get install nodejs npm -y && sudo npm install -g rtlcss
 ```
 sudo apt-get install xfonts-75dpi && sudo wget https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-1/wkhtmltox_0.12.6-1.bionic_amd64.deb &&sudo dpkg -i wkhtmltox_0.12.6-1.bionic_amd64.deb && sudo cp /usr/local/bin/wkhtmltoimage /usr/bin/wkhtmltoimage && sudo cp /usr/local/bin/wkhtmltopdf /usr/bin/wkhtmltopdf
   ``` 
-  ```
   apt-get -f install
     ```
 ##  انشاء مجلد لحفظ سجلات الاستخدام
