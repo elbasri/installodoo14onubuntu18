@@ -27,6 +27,9 @@ sudo apt-get install git python3 python3-pip build-essential wget python3-dev py
 ##  تثبيت ادوات الادوات والمكتبات الضرورية لتشغيل اودو، عن طريق البيب
 
 ```
+sudo apt install libpq-dev python3-dev
+```
+```
 sudo -H pip3 install -r https://raw.githubusercontent.com/odoo/odoo/master/requirements.txt 
    ```                 
 ##  تثبيت ادوات اخرى ضرورية                  
