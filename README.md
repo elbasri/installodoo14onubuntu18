@@ -4,6 +4,7 @@
 ##  تحديث السيرفر     
 ## Server Update
 ```
+sudo apt-get install software-properties-common
 sudo add-apt-repository universe && apt-get update && sudo apt-get upgrade -y 
 ```
 ##  انشاء مستخدم أودو في اوبنتو
