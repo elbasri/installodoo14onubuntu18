@@ -1,5 +1,5 @@
-# تثبيت اودو 14 في مخدم بنظام اوبنتو 18
-# Install odoo 14 on ubuntu 18.04 server
+# تثبيت اودو 14 في مخدم بنظام اوبنتو  18 و ديبيان
+# Install odoo 14 on ubuntu 18.04 server (+Debian)
 
 ##  تحديث السيرفر     
 ## Server Update
