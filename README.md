@@ -81,7 +81,8 @@ sudo chown odoo:odoo /etc/odoo-server.conf && sudo chmod 640 /etc/odoo-server.co
 ##  تشغيل اودو
 ## Run Odoo
 ```
-sudo su - odoo -s /bin/bash && cd /odoo/odoo-server                 
+sudo su - odoo -s /bin/bash
+cd /odoo/odoo-server                 
 ```
     
 ```
