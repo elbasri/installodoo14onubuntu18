@@ -101,7 +101,8 @@ dpkg -i odoo_14.0.latest_all.deb
 
 ###  لأي مساعدة يمكنك الاتصال بي عبر بيانات الاتصال الموجودة في موقعي التالي
 ### for any help you can contact me using information on my personal website
-https://www.nacer.ma
+https://facebook.com/abdennacerelbasri
+https://twitter.com/abdennacerelb
                     
 Video/فيديو:
 https://www.youtube.com/watch?v=Pi9Yffgmlk4
